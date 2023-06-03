@@ -6,7 +6,7 @@ MacOS, Linux ve BSD tabanlı işletim sistemlerini güncellemek amacıyla kullan
 Kullanım:
 
 <pre>
-git clone https://github.com/Alp19/alpsg/
+git clone https://github.com/Alp19/alpsg.git
 </pre>
 <pre>
 cd alpsg 
