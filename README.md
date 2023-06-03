@@ -15,3 +15,4 @@ cd alpsg
 bash alpsg.sh veya ./alpsg.sh 
 </pre>
 Teşekkürler...
+![Ekran Görüntüsü ](https://github.com/Alp19/alpsg/blob/main/resim.png)
